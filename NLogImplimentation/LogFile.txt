@@ -1,0 +1,1 @@
+﻿2021-05-07 09:55:43.7248|DEBUG|NLogImplimentation.NLog|Debug Successful
